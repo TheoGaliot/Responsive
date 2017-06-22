@@ -1,8 +1,7 @@
 body {
 
 background-image: url(http://www.joliefreebox.com/wp-content/uploads/2013/04/rc-lens.jpg);
-width:80%;
-margin: auto
+
 }
 
 
@@ -25,16 +24,21 @@ color: #DAA520;
 
 .staff {
   grid-row-start: 1;
+  text-align: center;
 }
-.goalkeepers {
+.Goalkeepers {
   grid-row-start: 2;
+  text-align: center;
 }
-.defensers {
+.Defensers {
   grid-row-start: 3;
+  text-align: center;
 }
-.middles {
+.milieu {
   grid-row-start: 4;
+  text-align: center;
 }
 .strikers {
  grid-row-start: 5;
+ text-align: center;
 }
