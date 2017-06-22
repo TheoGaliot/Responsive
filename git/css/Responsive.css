@@ -1,0 +1,10 @@
+img {
+  display: block;
+  float: left;
+  max-width: 100%;
+}
+
+p { color: #DDA0DD;
+font-family: "Londrina Solid", cursive;
+text-align: center;
+}
