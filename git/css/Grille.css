@@ -1,0 +1,40 @@
+body {
+
+background-image: url(http://www.joliefreebox.com/wp-content/uploads/2013/04/rc-lens.jpg);
+width:80%;
+margin: auto
+}
+
+
+section {
+
+display:grid;
+}
+
+
+p{
+font-size: 35px;
+font-weight: bold;
+font-style: oblique;
+font-family: "Londrina Solid" ,fantasy;
+text-align: center;
+color: #DAA520;
+}
+
+
+
+.staff {
+  grid-row-start: 1;
+}
+.goalkeepers {
+  grid-row-start: 2;
+}
+.defensers {
+  grid-row-start: 3;
+}
+.middles {
+  grid-row-start: 4;
+}
+.strikers {
+ grid-row-start: 5;
+}

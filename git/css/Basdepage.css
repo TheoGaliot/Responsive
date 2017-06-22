@@ -1,0 +1,29 @@
+footer {
+
+display: flex;
+justify-content: space-around;
+background-color: #87CEFA;
+color:white ;
+font-weight: bold;
+
+
+}
+
+div:hover {
+
+  background-color: #4169E1;
+}
+
+@media (max-width:640px) {
+footer{
+  flex-direction: column;
+}
+
+}
+div {
+
+  padding: 5px;
+  text-align: center;
+  border: 2px solid white;
+  flex: 1 1 auto;
+}
