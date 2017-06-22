@@ -12,14 +12,21 @@ display:grid;
 
 
 p{
-font-size: 35px;
+font-size: 30px;
 font-weight: bold;
 font-style: oblique;
+text-shadow: 0.1em 0.1em 0.15em #000000;
 font-family: "Londrina Solid" ,fantasy;
 text-align: center;
 color: #DAA520;
 }
 
+h2 {
+
+font-family: "Londrina Solid";
+color: white;
+text-shadow: 0.1em 0.1em 0.15em #000000;
+}
 
 
 .staff {
